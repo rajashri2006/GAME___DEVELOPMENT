@@ -172,3 +172,5 @@ clrscr();
 
 
 ## Result :
+
+Thus the given program is executed successfully.
